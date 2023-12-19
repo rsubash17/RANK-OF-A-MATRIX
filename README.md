@@ -13,8 +13,8 @@ To write a python program to find the rank of a matrix
 ```
 
 #Program to find the rank of a matrix.
-#Developed by: Aadithyan R
-#RegisterNumber:22000618
+#Developed by: SUBASH R
+#RegisterNumber:23003821
 import numpy as np 
 a=np.array([[1,2,3],[3,6,9]])
 b=np.linalg.matrix_rank(a)
